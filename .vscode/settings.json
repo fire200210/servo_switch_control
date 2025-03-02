@@ -1,0 +1,19 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\VScode_ESP32_workspace\\v5.3.1\\esp-idf",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM11",
+  "idf.toolsPathWin": "d:\\VScode_ESP32_workspace\\Espressif",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "freertos.h": "c",
+    "task.h": "c",
+    "main.h": "c",
+    "sdkconfig.h": "c",
+    "wifi_station.h": "c",
+    "gpio.h": "c",
+    "stdio.h": "c"
+  }
+}
